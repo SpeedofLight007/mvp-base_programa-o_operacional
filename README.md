@@ -1,11 +1,11 @@
 # MVP — Pipeline de Agendamentos B2B (dados anonimizados)
 
-**Desenvolvido por:** Marcelo Santos Araujo
-**Matrícula:** 4052024002227
-**Curso:** Especialização em Ciência de Dados e Analytics — PUC-Rio
-**Disciplina:** Engenharia de Dados
-**Data:** 26/09/2026
-**Plataforma:** Databricks Free Edition (Unity Catalog + Delta Lake)
+- **Desenvolvido por:** Marcelo Santos Araujo
+- **Matrícula:** 4052024002227
+- **Curso:** Especialização em Ciência de Dados e Analytics — PUC-Rio
+- **Disciplina:** Engenharia de Dados
+- **Data:** 26/09/2026
+- **Plataforma:** Databricks Free Edition (Unity Catalog + Delta Lake)
 
 > Nomenclatura anonimizada usada neste documento: a empresa é referida como
 > "Operadora X" e os 4 sistemas de origem como **Sistema A** (CRM padrão,
